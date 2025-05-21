@@ -72,12 +72,11 @@ Bucket Policy: Written in JSON to allow public read access to the object.
 
 ## Copy the url
 
-1.Accessed the Image via Public URL
 ![Fig 9](https://github.com/user-attachments/assets/0c0449a9-1512-4f46-9ec4-1cff28c2f6a6)
 
 ## Output
 
-1.Accessed the Image via Public URL
+### 1.Accessed the Image via Public URL
 ![p10](https://github.com/user-attachments/assets/dc69b4f5-1387-4602-974b-dbeba2e71205)
 
 

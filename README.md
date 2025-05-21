@@ -1,2 +1,2 @@
 # deploy-static-site-s3
-A beginner-friendly project showcasing how to deploy a static website using Amazon S3.
+Explored AWS S3 static website hosting by publicly deploying a static asset (image) with proper bucket policy and access control.

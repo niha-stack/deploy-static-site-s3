@@ -84,7 +84,7 @@ Bucket Policy: Written in JSON to allow public read access to the object.
 
 # What i learned
 
-###1.How static website hosting works in S3.
+### 1.How static website hosting works in S3.
 
 ### 2.How to configure public access safely using bucket policies.
 

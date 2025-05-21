@@ -1,6 +1,7 @@
 # deploy-static-site-s3
 Explored AWS S3 static website hosting by publicly deploying a static asset (image) with proper bucket policy and access control.
 
+![ChatGPT Image May 21, 2025, 11_44_42 AM](https://github.com/user-attachments/assets/2e357aeb-2867-49d4-8025-f3e79b6e12ae)
 
 
 # Objective

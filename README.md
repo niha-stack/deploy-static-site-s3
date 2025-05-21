@@ -13,12 +13,13 @@ AWS Console: For bucket creation, configuration, and policy management.
 Bucket Policy: Written in JSON to allow public read access to the object.
 
 # What i did
+
 ## Creating a bucket
 
+### 1.Gave it a unique name.
 
-1.Gave it a unique name.
+### Choose a region (e.g., us-east-1).
 
-2.Chose a region (e.g., us-east-1).
 
 ![Fig 1](https://github.com/user-attachments/assets/0f7d2412-b521-45a8-bbeb-23a4039fa308)
 

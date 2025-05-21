@@ -16,17 +16,23 @@ Bucket Policy: Written in JSON to allow public read access to the object.
 
 ## Creating a bucket
 
-### 1.Gave it a unique name.
+### 1.Give it a unique name.
 
-### Choose a region (e.g., us-east-1).
+### 2.Choose a region (e.g., us-east-1).
+
 
 
 ![Fig 1](https://github.com/user-attachments/assets/0f7d2412-b521-45a8-bbeb-23a4039fa308)
 
 
-3.Disabled “Block all public access”.
+
+### 3.Disabled “Block all public access”.
+
+
 
 ![Fig 2](https://github.com/user-attachments/assets/ec76234b-e77d-483f-9405-8627aa19df8e)
+
+
 
 
 4.Bucket is created
